@@ -1,5 +1,6 @@
 <h3> Basic Weather App built with React and OpenWeatherMap API </h3>
-<b> This is a basic weather app that shows a searched city's weather. <br>
+<b> This is a basic weather app that shows a searched city's weather <br>
+<b> using an API from OpenWeatherMap. The key in not included. <br>
 
 _________________
 
